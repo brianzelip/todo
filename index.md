@@ -2,6 +2,7 @@
 ---
 # To do
 
+- Taz5 upgrade
 - Newsletter
 - libguide change
 - REO email update
